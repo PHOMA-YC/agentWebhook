@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "G:/aiagentproject/agentwebhook/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "G:/aiagentproject/agentwebhook/./frontend/generated/jar-resources",
+  "staticOutput": "G:/aiagentproject/agentwebhook/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "G:\\aiagentproject\\agentwebhook\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "G:\\aiagentproject\\agentwebhook\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "G:/aiagentproject/agentwebhook/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "G:/aiagentproject/agentwebhook/target/dev-bundle/config",
+  "jarResourcesFolder": "G:/aiagentproject/agentwebhook/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "G:\\aiagentproject\\agentwebhook\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
